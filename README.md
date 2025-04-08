@@ -24,7 +24,7 @@ This repo contains my Java-based solutions and implementations of common DSA pro
 ## 🛠 Language & Tools
 
 - **Language:** Java  
-- **IDE:** IntelliJ / VS Code  
+- **IDE:** VS Code  
 - **Version Control:** Git & GitHub
 
 ---
