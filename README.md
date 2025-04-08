@@ -30,3 +30,25 @@ This repo contains my Java-based solutions and implementations of common DSA pro
 ---
 
 ## 📂 Project Structure
+
+> 📌 *Each topic is placed in its own folder with relevant Java files inside.*
+
+---
+
+## 🙋‍♂️ About Me
+
+I’m **Syed Intekhab**, a BCA student and a coding enthusiast.  
+I’m practicing DSA in Java to sharpen my problem-solving skills and prepare for tech interviews.
+
+---
+
+## 📫 Contact Me
+
+📧 Email – yourname@example.com  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+🐙 [GitHub](https://github.com/yourusername)
+
+---
+
+> Thanks for checking out my DSA journey!  
+> If you found this helpful, feel free to ⭐ the repo or suggest improvements!
