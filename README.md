@@ -44,7 +44,7 @@ I’m practicing DSA in Java to sharpen my problem-solving skills and prepare fo
 
 ## 📫 Contact Me
 
-📧 Email – yourname@example.com  
+📧 Email – intekhab.dev@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
 🐙 [GitHub](https://github.com/syed-intekhab)
 
