@@ -1,7 +1,7 @@
-# 📘 DSA Practice in Java
+# 📘 DSA Practice in C++
 
 Welcome to my **Data Structures and Algorithms (DSA)** repository.  
-This repo contains my Java-based solutions and implementations of common DSA problems, organized by topic.
+This repo contains my C++-based solutions and implementations of common DSA problems, organized by topic.
 
 ---
 
@@ -23,7 +23,7 @@ This repo contains my Java-based solutions and implementations of common DSA pro
 
 ## 🛠 Language & Tools
 
-- **Language:** Java  
+- **Language:** C++  
 - **IDE:** VS Code  
 - **Version Control:** Git & GitHub
 
