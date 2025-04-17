@@ -31,14 +31,14 @@ This repo contains my C++-based solutions and implementations of common DSA prob
 
 ## 📂 Project Structure
 
-> 📌 *Each topic is placed in its own folder with relevant Java files inside.*
+> 📌 *Each topic is placed in its own folder with relevant C++ files inside.*
 
 ---
 
 ## 🙋‍♂️ About Me
 
 I’m **Syed Intekhab**, a BCA student and a coding enthusiast.  
-I’m practicing DSA in Java to sharpen my problem-solving skills and prepare for tech interviews.
+I’m practicing DSA in C++ to sharpen my problem-solving skills and prepare for tech interviews.
 
 ---
 
